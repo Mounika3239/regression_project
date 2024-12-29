@@ -1,5 +1,7 @@
 # regression_project
 
+![Real Estate Data UI](images/UI.png "Sample")
+
 ## Overview
 This project focuses on building a system to predict property prices based on various attributes such as the number of bedrooms, bathrooms, floors, and the city. The system involves data normalization, preprocessing, model training, optimization, and deployment as a user-friendly Streamlit application.
 
